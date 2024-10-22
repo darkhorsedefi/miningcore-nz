@@ -1057,7 +1057,7 @@ public class Statistics
     public int? HashrateCalculationWindow { get; set; }
 
     /// <summary>
-    /// Stats cleanup interval in hours
+    /// Stats cleanup interval in minutes
     /// </summary>
     public int? GcInterval { get; set; }
 
